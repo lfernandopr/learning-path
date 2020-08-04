@@ -15,5 +15,7 @@ The list of courses includes Machine Learning and Data Visualization.
 9. [Kaggle Courses](https://www.kaggle.com/learn/overview)
 10. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-I include my own coding for the course. For content material please contact the course owners. 
-All of the listed courses are great for learning Machine Learning topics and I am very grateful I was able to found them during my learning path.
+I include the certificates for each of them. For content material please contact the course owners. 
+All of the listed courses are great for learning Machine Learning topics and I am very grateful I was able to found them during my learning path. If you hace any questions please feel free to contact me.
+
+[Fernando Pelcastre](mailto:lfernando_pr@hotmail.com)
